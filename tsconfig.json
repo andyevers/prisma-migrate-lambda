@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"allowJs": true,
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"baseUrl": "src"
+	},
+	"include": ["**/*.ts"],
+	"exclude": ["node_modules"]
+}

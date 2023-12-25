@@ -1,0 +1,16 @@
+{
+    "name": "prisma-migrate-lambda",
+    "license": "MIT",
+    "prisma": {
+        "schema": "src/schema.prisma"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.5",
+        "aws-cdk-lib": "2.101.1",
+        "constructs": "10.2.69",
+        "prisma": "5.6.0"
+    },
+    "dependencies": {
+        "@prisma/client": "^5.6.0"
+    }
+}
