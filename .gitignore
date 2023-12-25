@@ -4,3 +4,4 @@ node_modules
 .lambda-migrations
 .lambda-schema.prisma
 package-lock.json
+.DS_Store
